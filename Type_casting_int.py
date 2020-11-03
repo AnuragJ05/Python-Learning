@@ -1,0 +1,8 @@
+w=int(2)
+x=int(2.4)
+y=int("3")
+z=float("3.4")
+print(w)
+print(x)
+print(y)
+print(z)

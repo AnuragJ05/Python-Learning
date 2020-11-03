@@ -1,0 +1,8 @@
+w=str(2)
+x=str(2.4)
+y=str("3")
+z=str("3.4")
+print(w)
+print(x)
+print(y)
+print(z)
